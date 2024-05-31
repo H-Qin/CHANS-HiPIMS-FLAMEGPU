@@ -10,7 +10,7 @@ The HiPIMS-FLAMEGPU Coupled Model Framework integrates the high-performance hydr
 - Scalable performance on multi-core CPUs and GPUs.
 - User-friendly input/output formats.
 
-### Prerequisites
+## Prerequisites
 
 CHANS-HiPIMS deployment requires the following software to be installed on the build machine.
 - Anaconda Python environment management tool
@@ -39,7 +39,7 @@ Dependencies for CHANS-FLAMEGPU:
         - `GLUT` (deb: `freeglut3-dev`, yum: `freeglut-devel`)
     - *Optional*: `xmllint`
 
-#### Environment configuration for CHANS-HiPIMS
+## Environment configuration for CHANS-HiPIMS
 _a. Package manager_
 Anaconda will be chosen as the package manager in HiPIMS 3.0.
 - Install Anaconda if needed:
@@ -91,7 +91,7 @@ cd $hipims/cuda/
 python setup.py install
 ```
 
-#### Building the CHANS-FLAMEGPU
+## Building the CHANS-FLAMEGPU
 
 FLAME GPU can be built for Windows and Linux. MacOS *should* work, but is unsupported.
 
@@ -114,7 +114,7 @@ cd CHANS-FLAMEGPU/CHANS_ABM/
 make console
 ```
 
-##### Usage
+## Usage
 
 ***Runing CHANS-HiPIMS on Linux***
 1. Navigate to the `CHANS-FLAMEGPU/CHANS_ABM/` directory
@@ -142,7 +142,7 @@ Assuming the `CHANS_ABM` project has been compiled for visualisation, there are 
     2. Run `../../bin/linux-x64/Release_Visualisation/CHANS_ABM iterations/map.xml`
 
 
-###### Contribution
+## Contribution
 
 **HiPIMS for hydrodynamic modelling**
 HiPIMS is maintained by the Hydro-Environmental Modelling Labarotory [URL](https://www.hemlab.org/), a research hub for technological innovation and interdisciplinary collaboration. We warmly welcome the hydro-environmental modelling community to contribute to the project, believing that this project will benefit the whole community.
