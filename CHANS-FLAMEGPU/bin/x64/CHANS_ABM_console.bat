@@ -1,0 +1,1 @@
+Release_Console\CHANS_ABM.exe "..\..\CHANS-FLAMEGPU\CHANS_ABM\iterations\map.xml" 183600
