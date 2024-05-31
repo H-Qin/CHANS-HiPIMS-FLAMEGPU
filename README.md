@@ -117,6 +117,7 @@ make console
 ## Usage
 
 ***Runing CHANS-HiPIMS on Linux***
+
 1. Navigate to the `CHANS-FLAMEGPU/CHANS_ABM/` directory
 2. Run `python CHANS-HiPIMS_server.py`
 
@@ -145,20 +146,27 @@ Assuming the `CHANS_ABM` project has been compiled for visualisation, there are 
 ## Contribution
 
 **HiPIMS for hydrodynamic modelling**
+
 HiPIMS is maintained by the Hydro-Environmental Modelling Labarotory [URL](https://www.hemlab.org/), a research hub for technological innovation and interdisciplinary collaboration. We warmly welcome the hydro-environmental modelling community to contribute to the project, believing that this project will benefit the whole community.
 
  [Qiuhua Liang](https://www.lboro.ac.uk/departments/abce/staff/qiuhua-liang/), ([Q.Liang@lboro.ac.uk](mailto:Q.Liang@lboro.ac.uk)) is the Head of HEMLab.
 
 ***Authors of HiPIMS***
+
 Jiaheng Zhao ([j.zhao@lboro.ac.uk ](mailto:j.zhao@lboro.ac.uk)), Xue Tong ([x.tong2@lboro.ac.uk](mailto:x.tong2@lboro.ac.uk))
 
 ***Co-authors of HiPIMS***
+
 Haoyang Qin ([H.Qin@lboro.ac.uk](mailto:H.Qin@lboro.ac.uk)), Jinghua Jiang ([J.Jiang3@lboro.ac.uk](mailto:J.Jiang3@lboro.ac.uk)), Xiaoli Su ([X.Su@lboro.ac.uk](mailto:X.Su@lboro.ac.uk)), Kaicui Chen ([K.Chen@lboro.ac.uk](mailto:K.Chen@lboro.ac.uk)).
+
  
 
 **FLAMEGPU for agent-based modelling**
+
 FLAME GPU is developed as an open-source project by the [Visual Computing research group](https://www.sheffield.ac.uk/dcs/research/groups/visual-computing/home) in the [Department of Computer Science](https://www.sheffield.ac.uk/dcs/) at the [University of Sheffield](https://www.sheffield.ac.uk/).
 The primary author is [Dr Paul Richmond](http://paulrichmond.shef.ac.uk/).
 
+
 **CHANS modelling framework**
+
 This HiPIMS-FLAMEGPU Coupled Human And Natural Systems (CHANS) modelling framework is developed by Haoyang Qin ([H.Qin@lboro.ac.uk](mailto:H.Qin@lboro.ac.uk)). For any questions or feedback, please open an issue on GitHub or contact Haoyang.
