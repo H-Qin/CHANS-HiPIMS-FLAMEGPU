@@ -145,7 +145,7 @@
     </Xsd>
   </ItemGroup>
   <ItemGroup>
-    <Library Include="..\..\..\examples\EmptyExample\rpc.lib">
+    <Library Include="..\..\..\CHANS-FLAMEGPU\CHANS_ABM\rpc.lib">
       <Filter>templates</Filter>
     </Library>
     <Library Include="rpc.lib">
