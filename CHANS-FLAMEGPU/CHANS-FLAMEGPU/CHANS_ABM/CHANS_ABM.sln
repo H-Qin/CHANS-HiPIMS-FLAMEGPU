@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PedestrianNavigation", "PedestrianNavigation.vcxproj", "{071BB28A-4F01-417B-B6A1-F38DF0F2E04E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug_Console|x64 = Debug_Console|x64
+		Debug_Visualisation|x64 = Debug_Visualisation|x64
+		Release_Console|x64 = Release_Console|x64
+		Release_Visualisation|x64 = Release_Visualisation|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{071BB28A-4F01-417B-B6A1-F38DF0F2E04E}.Debug_Console|x64.ActiveCfg = Debug_Console|x64
+		{071BB28A-4F01-417B-B6A1-F38DF0F2E04E}.Debug_Console|x64.Build.0 = Debug_Console|x64
+		{071BB28A-4F01-417B-B6A1-F38DF0F2E04E}.Debug_Visualisation|x64.ActiveCfg = Debug_Visualisation|x64
+		{071BB28A-4F01-417B-B6A1-F38DF0F2E04E}.Debug_Visualisation|x64.Build.0 = Debug_Visualisation|x64
+		{071BB28A-4F01-417B-B6A1-F38DF0F2E04E}.Release_Console|x64.ActiveCfg = Release_Console|x64
+		{071BB28A-4F01-417B-B6A1-F38DF0F2E04E}.Release_Console|x64.Build.0 = Release_Console|x64
+		{071BB28A-4F01-417B-B6A1-F38DF0F2E04E}.Release_Visualisation|x64.ActiveCfg = Release_Visualisation|x64
+		{071BB28A-4F01-417B-B6A1-F38DF0F2E04E}.Release_Visualisation|x64.Build.0 = Release_Visualisation|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55A0D35F-0957-4347-9C44-74266C328F21}
+	EndGlobalSection
+EndGlobal
